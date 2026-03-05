@@ -26,8 +26,6 @@ To comply with the double-blind review policy and prevent data leakage, the comp
 
 *All resources will be made fully accessible to the public immediately upon the acceptance of our manuscript.*
 
-## 🏫 About the Project
-This project is developed and maintained by the research team at the **School of Software Engineering, Yunnan University**. Our research focuses on the development, safety, and application of Large Language Models in the domain of psychological counseling.
 
 ## 📩 Contact
 For any inquiries regarding the model or the upcoming CARE framework, please feel free to open an issue in this repository. We will respond as soon as possible.
